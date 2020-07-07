@@ -1,0 +1,10 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="*.js.flow" type="Flow" />
+      <mapping pattern="*.js.flow" type="Flow" />
+      <mapping pattern="application-yefei" type="YAML" />
+      <mapping pattern="application-keppe" type="YAML" />
+    </extensionMap>
+  </component>
+</application>
