@@ -1,0 +1,9 @@
+<toolSet name="External Tools">
+  <tool name="bpmn" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="C:\soft\IntelliJ IDEA 2020.1.2\camunda-modeler-4.0.0-win-x64\Camunda Modeler.exe" />
+      <option name="PARAMETERS" value="$filepath" />
+      <option name="WORKING_DIRECTORY" value="$APPLICATION_HOME_DIR$/camunda-modeler-4.0.0-win-x64" />
+    </exec>
+  </tool>
+</toolSet>
