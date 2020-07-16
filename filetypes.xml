@@ -1,0 +1,9 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.idea,*.iml,*.yarb;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc;" />
+    <extensionMap>
+      <mapping pattern="application-keppe" type="YAML" />
+      <mapping pattern="application-yefei" type="YAML" />
+    </extensionMap>
+  </component>
+</application>
