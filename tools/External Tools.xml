@@ -3,7 +3,7 @@
     <exec>
       <option name="COMMAND" value="C:\soft\IntelliJ IDEA 2020.1.2\camunda-modeler-4.0.0-win-x64\Camunda Modeler.exe" />
       <option name="PARAMETERS" value="$filepath" />
-      <option name="WORKING_DIRECTORY" value="$APPLICATION_HOME_DIR$/camunda-modeler-4.0.0-win-x64" />
+      <option name="WORKING_DIRECTORY" value="C:/dev/IntelliJ IDEA 2020.1.3/camunda-modeler-4.0.0-win-x64" />
     </exec>
   </tool>
 </toolSet>
