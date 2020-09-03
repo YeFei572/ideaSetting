@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.idea,*.iml,*.yarb;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc;" />
     <extensionMap>
+      <mapping ext="setting" type="PLAIN_TEXT" />
       <mapping ext="gz" type="PLAIN_TEXT" />
       <mapping pattern="application-yefei" type="YAML" />
       <mapping pattern="application-keppe" type="YAML" />
