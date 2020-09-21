@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="DRAFT" />
+      <item value="REJECT" />
       <item value="Allocates a &lt;code&gt;Date&lt;/code&gt; object and initializes it so that * it represents the date and time indicated by the string * &lt;code&gt;s&lt;/code&gt;, which is interpreted as if by the" />
       <item value="Decrement" />
       <item value="Consider defining a bean of type 'com.dikar.human.api.feign.RemoteEmployeeService' in your configuration." />
@@ -10,8 +12,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5" />
-        <entry key="ENGLISH" value="6" />
+        <entry key="CHINESE" value="7" />
+        <entry key="ENGLISH" value="8" />
       </map>
     </option>
   </component>
