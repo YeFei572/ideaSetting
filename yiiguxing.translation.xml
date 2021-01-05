@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="COLON" />
       <item value="创建人id" />
       <item value="Ambiguous handler methods mapped" />
       <item value="Combines this date with the time of midnight to create a {@code LocalDateTime} * at the start of this date. * &lt;p&gt; * This returns a {@code LocalDateTime} formed from this date at the time of * midnight, 00:00, at the start of this date. * * @return the local date-time of midnight at the start of this date, not null" />
@@ -17,15 +18,12 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="11" />
-        <entry key="ENGLISH" value="12" />
+        <entry key="CHINESE" value="12" />
+        <entry key="ENGLISH" value="13" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1608254189788" />
-  </component>
-  <component name="Settings">
-    <option name="ignoreRegExp" value="" />
+    <option name="lastTrimTime" value="1609836593109" />
   </component>
 </application>
